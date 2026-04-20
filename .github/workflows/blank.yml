@@ -1,0 +1,4 @@
+git submodule update --remote --merge batmon-ha
+git add batmon-ha
+git commit -m "Update batmon-ha to latest master"
+git push
