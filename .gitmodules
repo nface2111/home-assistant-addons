@@ -1,3 +1,7 @@
 [submodule "influxdb-udp-relay"]
         path = influxdb-udp-relay
         url = https://github.com/fl4p/influxdb-udp-relay
+[submodule "batmon-ha"]
+	path = batmon-ha
+	url = https://github.com/nface2111/batmon-ha
+	branch = master
